@@ -36,6 +36,6 @@ AI-AWS-Bedrock-Project-for-AIWS-Hackfest/
 ```
 
 ## License
-Licensed under the **GPL-3.0 license**.
+Licensed under the **GPL-3.0 license**
 
 For more on **AIWS Hackfest**, visit the [AIWS Hackfest page](https://unstop.com/hackathons/aiws-hackfest-ai-aws-certifyo-1467064?utm_source=chatgpt.com).
